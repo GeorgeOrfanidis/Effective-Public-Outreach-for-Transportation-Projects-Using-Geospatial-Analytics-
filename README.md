@@ -9,14 +9,17 @@ My advisor and I updated the NCDOT Research and Development Committee on the pro
 research.
 
 **2. North Carolina State University (NCSU) Research & Innovation Summit.**
+
 The objective of the event hosted by the University of North Carolina Highway Safety Research Center
 (HSRC) was to introduce innovative transportation research from the public, private and academic sectors.
 
 **3. North Carolina State University (NCSU) Internal Symposium.**
+
 Students from all the Departments of NCSU presented their research in a virtual symposium that was held
 by the institution.
 
 **4. National Computer and Information Science and Engineering (CISE) Symposium.**
+
 Students from major Computer Science University programs presented their research.
 
 
