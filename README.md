@@ -20,6 +20,6 @@ by the institution.
 Students from major Computer Science University programs presented their research.
 
 
-**Advisor: Dr. Okan Pala, Research Associate, Department of Computer Science & Center of GeospatialAnalytics, NCSU**
+**Advisor: Dr. Okan Pala, Research Associate, Department of Computer Science & Center of Geospatial Analytics, NCSU**
 
 
