@@ -23,7 +23,7 @@ Students from major Computer Science University programs presented their researc
 **Advisor: Dr. Okan Pala, Research Associate, Department of Computer Science & Center of Geospatial Analytics, NCSU**
 
 ### NOTE!
-** *No part of the information presented may be reproduced in whole or in part in any manner without permission.* **  
+***No part of the information presented may be reproduced in whole or in part in any manner without permission.***  
 Please contact us for collaboration at opala@ncsu.edu or at orfanidisg2@winthrop.edu
 
 
